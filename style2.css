@@ -1,0 +1,22 @@
+#nav_top {
+  height: 52px;
+}
+
+@media only screen and (min-width: 992px) {
+  #badge_top {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  #nav_top {
+    background-color: pink;
+    height: 52px;
+  }
+}
+@media (min-width: 992px) {
+  #badge_top {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
